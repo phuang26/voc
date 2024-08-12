@@ -1,0 +1,11 @@
+{
+  "identifier": "dateTime.now",
+  "name": "System Time",
+  "type": "datetime",
+  "term_id": "NCIT_C25164",
+  "field": "systemTime",
+  "label": "System Time",
+  "default": "",
+  "source": "System",
+  "opid": 9
+}
