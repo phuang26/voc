@@ -1,0 +1,11 @@
+{
+  "identifier": "element.id",
+  "name": "Element Id",
+  "type": "text",
+  "term_id": "NCIT_C25364",
+  "field": "elementId",
+  "label": "Element Id",
+  "default": "",
+  "source": "Element",
+  "opid": 9
+}
