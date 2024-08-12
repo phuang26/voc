@@ -1,0 +1,10 @@
+{
+ "identifier": "element.short_label",
+ "name":  "Element Short Label",
+  "field": "elementShortLabel",
+ "label":  "Element Short Label",
+ "field_type":  "text",
+ "opid":  9,
+ "term_id":  "NCIT_C45561",
+ "source":  "Element"
+ }
